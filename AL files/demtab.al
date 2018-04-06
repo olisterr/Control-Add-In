@@ -1,5 +1,5 @@
 tableextension 50149 TabSign extends Customer
-{ //Olister 
+{ //Olister Rumao
     fields
     {
        field(50050;SignatureImage;Blob)
