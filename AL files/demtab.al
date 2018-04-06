@@ -1,5 +1,5 @@
 tableextension 50149 TabSign extends Customer
-{ //Olister Rumao - 05-04-2018--TRIAL---NEW
+{ //Olister Rumao---- AMOL
 
     fields
     {
